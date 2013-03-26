@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
   name='StatHat',
-  version='1.0',
+  version='1.1',
   author='Valentin Bora',
   author_email = 'valentin@gosimplysocial.com',
   description = 'StatHat Python client',
